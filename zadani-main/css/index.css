@@ -13,17 +13,20 @@ h1 {
 a:hover {
     color: rgb(255, 0, 0);
 }
-a {
-    font-size: 25px;
-    margin-left: 47%;
+li {
+    font-size: 50px;
+    text-align: center;
+    list-style-type: none;
+    padding-top: 12%;
 }
+
 footer {
     background-color: #549da06b;
     text-align: center;
     font-size: large;
     padding: 3px;
     margin: auto;
-    margin-top: 40%;
+    margin-top: 26.5%;
 }
 
 

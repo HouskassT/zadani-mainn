@@ -15,12 +15,15 @@ h1 {
     text-align: center;
     font-size: 25px;
     text-decoration-line: underline;
+    font-style: italic;
 }
 li {
     list-style-type: none;
     font-size: 20px;
     text-align: center;
-    
+}
+a:hover {
+    color: brown;
 }
 footer {
     background: linear-gradient(to left, #42c9d3, #302b63);
